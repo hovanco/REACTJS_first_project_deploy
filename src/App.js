@@ -1,4 +1,4 @@
-import React, { Component,Fragment } from 'react';
+import React, { Component} from 'react';
 import "./App.css";
 import pic_1 from "./pic_ture/item1.jpg";
 import pic_2 from "./pic_ture/item2.jpg";
